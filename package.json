@@ -1,0 +1,24 @@
+{
+  "name": "random-string-merz",
+  "version": "1.0.0",
+  "description": "random string msg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Merzelert/random-string-merz.git"
+  },
+  "keywords": [],
+  "author": "Erik Retana <merzelert@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Merzelert/random-string-merz/issues"
+  },
+  "homepage": "https://github.com/Merzelert/random-string-merz#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
